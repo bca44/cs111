@@ -1,0 +1,8 @@
+
+<<12>>
+``1;large;15`` large pizzas, ``1;medium;15`` medium pizzas, and ``2;small;15`` small pizzas will be needed.
+
+A total of ``741.42;in2;15`` square inches of pizza will be ordered (``61.78;guest;15`` per guest).
+
+<<80>>
+The total cost of the event will be: ``$73.30;tip;25``.

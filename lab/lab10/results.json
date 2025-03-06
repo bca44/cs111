@@ -1,0 +1,11 @@
+{
+    "tests": [
+        {
+            "score": 6,
+            "max_score": 6,
+            "name": "test_lab10.py::test_library_add_book",
+            "output": "That id has already been taken.\n\n",
+            "visibility": "visible"
+        }
+    ]
+}

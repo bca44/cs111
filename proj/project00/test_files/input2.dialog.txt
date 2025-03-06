@@ -1,0 +1,11 @@
+<<test_files/grades2.test.dat>>
+
+
+
+``Labs:;labs_category;6`` ``333/360;labs_pointy;6`` ``92.5%;labs_percentagy;6`` 
+``Homework:;hw_category;6`` ``287/300;hw_pointy;6`` ``95.7%;hw_percentagy;6`` 
+``Projects:;proj_category;6`` ``468/500;proj_pointy;6`` ``93.6%;proj_percentagy;6`` 
+``Midterm 1:;midterm1_category;6`` ``35/40;midterm1_pointy;6`` ``87.5%;midterm1_percentagy;6`` 
+``Midterm 2:;midterm2_category;6`` ``33/40;midterm2_pointy;6`` ``82.5%;midterm2_percentagy;6``  
+
+The overall grade in the class is: ``A-;letter_grade;5`` ``(90.63%);percentage_grade;5`` 

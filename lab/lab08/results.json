@@ -1,0 +1,46 @@
+{
+    "tests": [
+        {
+            "score": 3,
+            "max_score": 3,
+            "name": "test_lab08.py::test_iron_puzzle",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3,
+            "max_score": 3,
+            "name": "test_lab08.py::test_west_puzzle",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3,
+            "max_score": 3,
+            "name": "test_lab08.py::test_darken",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3,
+            "max_score": 3,
+            "name": "test_lab08.py::test_grayscale",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3,
+            "max_score": 3,
+            "name": "test_lab08.py::test_sepia",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 5,
+            "max_score": 5,
+            "name": "test_lab08.py::test_create_left_border",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

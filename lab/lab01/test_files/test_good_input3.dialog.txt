@@ -1,0 +1,7 @@
+<<1200>>
+<<87.32>>
+<<cousin>>
+<<mouse>>
+<<tiny>>
+
+``60 score;int;20`` ``and 87.320 years;float;20`` ago, our ``forecousins;family;20`` brought forth upon ``this mouse ;noun;20``a ``tiny nation.;adj;20``

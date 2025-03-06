@@ -1,0 +1,11 @@
+{
+    "tests": [
+        {
+            "score": 20,
+            "max_score": 20,
+            "name": "test_project1.py::test_greenscreen_filter",
+            "output": "Executing command...\n\n",
+            "visibility": "visible"
+        }
+    ]
+}

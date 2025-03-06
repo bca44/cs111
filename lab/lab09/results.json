@@ -1,0 +1,53 @@
+{
+    "tests": [
+        {
+            "score": 3.0,
+            "max_score": 3.0,
+            "name": "test_lab09.py::test_no_flags[stdout]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.0,
+            "max_score": 3.0,
+            "name": "test_lab09.py::test_p_flag[stdout]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.0,
+            "max_score": 2.0,
+            "name": "test_lab09.py::test_i_flag[stdout]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.0,
+            "max_score": 3.0,
+            "name": "test_lab09.py::test_h_flag[stdout]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.0,
+            "max_score": 3.0,
+            "name": "test_lab09.py::test_w_flag_with_no_content[stdout]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.0,
+            "max_score": 3.0,
+            "name": "test_lab09.py::test_w_flag_with_content[w_flag_with_content.dialog.txt]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3.0,
+            "max_score": 3.0,
+            "name": "test_lab09.py::test_r_flag[stdout]",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

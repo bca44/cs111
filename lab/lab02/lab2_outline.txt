@@ -1,0 +1,19 @@
+even_weighted
+    make list of indices
+    for each index:
+        if even
+            multipy ith element by its index
+            add to new list
+        return list
+
+couple
+    make list of indices
+    for each index i:
+        grab s[ i ] and t[ i ] and add [s[ i ] , t[ i ] ] to new list
+    return list
+    BETTER - make a list comprehension
+
+copy_file
+    read lines of input_file
+    make list of indices - length of lines in input_file
+    write f:"{i}: {input_lines[ i ]}" to output_file

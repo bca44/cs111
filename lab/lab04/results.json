@@ -1,0 +1,32 @@
+{
+    "tests": [
+        {
+            "score": 10,
+            "max_score": 10,
+            "name": "test_digit_counter.py::test_digit_counter",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0,
+            "max_score": 0,
+            "name": "test_extra_practice.py::test_largest_factor",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0,
+            "max_score": 0,
+            "name": "test_extra_practice.py::test_missing_digits",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 10,
+            "max_score": 10,
+            "name": "test_square_root.py::test_square_root",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

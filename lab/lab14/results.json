@@ -1,0 +1,25 @@
+{
+    "tests": [
+        {
+            "score": 6,
+            "max_score": 6,
+            "name": "test_lab14.py::test_multiply",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 7,
+            "max_score": 7,
+            "name": "test_lab14.py::test_is_prime",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 7,
+            "max_score": 7,
+            "name": "test_lab14.py::test_skip_mul",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

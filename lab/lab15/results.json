@@ -1,0 +1,11 @@
+{
+    "tests": [
+        {
+            "score": 0,
+            "max_score": 5,
+            "name": "test_lab15.py::test_deep_map_mut",
+            "output": "\nLink = <class 'lab15.Link'>, deep_map_mut = <function deep_map_mut at 0x0426ADE8>\nmonkeypatch = <_pytest.monkeypatch.MonkeyPatch object at 0x04253570>\n\n>   ???\n\nC:\\Users\\bcand\\Desktop\\Winter25\\cs111\\lab\\lab15\\test_lab15.py:117: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\nfn = <function test_deep_map_mut.<locals>.double at 0x0426AE38>, link = ()\n\n    def deep_map_mut(fn, link):\n        \"\"\"Mutates a deep link by replacing each item found with the\n        result of calling fn on the item.  Does NOT create new Links (so\n        no use of Link's constructor)\n    \n        Does not return the modified Link object.\n    \n        >>> link1 = Link(3, Link(Link(4), Link(5, Link(6))))\n        >>> deep_map_mut(lambda x: x * x, link1)\n        >>> link1\n        Link(9, Link(Link(16), Link(25, Link(36))))\n        \"\"\"\n        # if link.first is Link, recur\n>       if isinstance(link.first, Link):\nE       AttributeError: 'tuple' object has no attribute 'first'\n\nlab15.py:90: AttributeError",
+            "visibility": "visible"
+        }
+    ]
+}

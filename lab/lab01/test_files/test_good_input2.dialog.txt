@@ -1,0 +1,7 @@
+<<20>>
+<<2.718281828>>
+<<grandfather>>
+<<mailbox>>
+<<purple>>
+
+``1 score;int;20`` ``and 2.718 years;float;20`` ago, our ``foregrandfathers;family;20`` brought forth upon ``this mailbox ;noun;20``a ``purple nation.;adj;20``

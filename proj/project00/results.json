@@ -1,0 +1,18 @@
+{
+    "tests": [
+        {
+            "score": 49.7,
+            "max_score": 50.0,
+            "name": "test_grade_calculator.py::test_grade_1[stdout]",
+            "output": "\ngroup_name = 'stdout'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           assert Observed (left) == Expected (right)\nE             test_files/grades1.test.dat                    | test_files/grades1.test.dat                    \nE                                                            |                                                \nE                                                            |                                                \nE                                                            |                                                \nE             Labs:\t406/440\t92.3%                            | Labs: 406/440 92.3%                            \nE             Homework:\t337/350\t96.3%                        | Homework: 337/350 96.3%                        \nE             Projects:\t568/600\t94.7%                        | Projects: 568/600 94.7%                        \nE             Midterm 1:\t35/40\t87.5%                         | Midterm 1: 35/40 87.5%                         \nE             Midterm 2:\t33/40\t82.5%                         | Midterm 2: 33/40 82.5%                         \nE             Final:\t67/70\t95.7%                             | Final: 67/70 95.7%                             \nE                                                            |                                                \nE             The overall grade in the class is: A- (91.98%) | The overall grade in the class is: A- (91.99%)\n\n..\\..\\.venv\\Lib\\site-packages\\byu_pytest_utils\\dialog.py:29: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 49.7,
+            "max_score": 50.0,
+            "name": "test_grade_calculator.py::test_grade_2[stdout]",
+            "output": "\ngroup_name = 'stdout'\n\n    def new_func(group_name):\n        group_stat = group_stats[group_name]\n        if not group_stat['passed']:\n>           assert group_stat['observed'] == group_stat['expected']\nE           assert Observed (left) == Expected (right)\nE             test_files/grades2.test.dat                    | test_files/grades2.test.dat                    \nE                                                            |                                                \nE                                                            |                                                \nE                                                            |                                                \nE             Labs:\t333/360\t92.5%                            | Labs: 333/360 92.5%                            \nE             Homework:\t287/300\t95.7%                        | Homework: 287/300 95.7%                        \nE             Projects:\t468/500\t93.6%                        | Projects: 468/500 93.6%                        \nE             Midterm 1:\t35/40\t87.5%                         | Midterm 1: 35/40 87.5%                         \nE             Midterm 2:\t33/40\t82.5%                         | Midterm 2: 33/40 82.5%                         \nE                                                            |                                                \nE             The overall grade in the class is: A- (90.62%) | The overall grade in the class is: A- (90.63%)\n\n..\\..\\.venv\\Lib\\site-packages\\byu_pytest_utils\\dialog.py:29: AssertionError",
+            "visibility": "visible"
+        }
+    ]
+}

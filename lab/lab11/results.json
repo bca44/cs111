@@ -1,0 +1,25 @@
+{
+    "tests": [
+        {
+            "score": 7,
+            "max_score": 7,
+            "name": "test_lab11.py::test_get_and_set",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6,
+            "max_score": 6,
+            "name": "test_lab11.py::test_str_and_repr",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 7,
+            "max_score": 7,
+            "name": "test_lab11.py::test_eq",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

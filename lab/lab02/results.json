@@ -1,0 +1,39 @@
+{
+    "tests": [
+        {
+            "score": 3,
+            "max_score": 3,
+            "name": "test_lab02.py::test_even_weighted_1_2_3_4_5_6",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3,
+            "max_score": 3,
+            "name": "test_lab02.py::test_even_weighted_9_17_4_5_4",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3,
+            "max_score": 3,
+            "name": "test_lab02.py::test_couple_1_2_3_4_5_6",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3,
+            "max_score": 3,
+            "name": "test_lab02.py::test_couple_c_6_s_1",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 8,
+            "max_score": 8,
+            "name": "test_lab02.py::test_copy_file",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

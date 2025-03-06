@@ -1,0 +1,27 @@
+The program should prompt the user for an input file that contains the grade data.
+
+The program should then read in all the grades for the labs, homework assignments, projects and exams provided in the file
+    and calculate a grade for the student based on
+    the submitted assignments and the grading policy specified in the syllabus.
+
+Once the grade is calculated, the program should print out a message indicating
+    the student's percentages in each category (Labs, Homework, etc.).
+    It should then display the student's overall percentage
+    and letter grade in the class
+    and then exit.
+
+# sample terminal output
+> python project0.py
+Please enter the grade data filename: grades.dat
+
+Here are the student's grades:
+Category    Points   Percentage
+Labs:       174/200  87.0%
+Homework:   279/300  93.0%
+Projects:   196/200  98.0%
+Midterm 1:    35/40  87.5%
+Midterm 2:    37/40  92.5%
+Final:        68/70  97.1%
+
+The overall grade in the class is: A (93.58%).
+>

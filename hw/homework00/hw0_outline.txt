@@ -1,0 +1,25 @@
+needs:
+    input - how many people to be fed?
+    input - tip percentage?
+
+calculate:
+    how many: large, med, small pizzas
+    total price (including tip)
+    area of pizza (square inches)
+    area per person
+
+formatting notes:
+    'magic numbers' should be declared in UPPER_SNAKE_CASE at top of file
+    including: value for pi, how many people per x pizza size, price of x pizza size
+
+steps:
+    function to divide number of people evenly among PEOPLE_PER_LARGE, PEOPLE_PER_MEDIUM, and PEOPLE_PER_SMALL
+    grab people/tip input
+
+script:
+    Please enter how many guests to order for:
+    <NN> large pizzas, <NN> medium pizzas, and <NN> small pizzas will be needed.
+    A total of <NN.NN> square inches of pizza will be ordered (<NN.NN> per guest).
+
+    Please enter the tip as a percentage (i.e. 10 means 10%):
+    The total cost of the event will be: $<NN.NN>

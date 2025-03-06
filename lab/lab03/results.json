@@ -1,0 +1,53 @@
+{
+    "tests": [
+        {
+            "score": 2,
+            "max_score": 2,
+            "name": "test_lab03.py::test_average_temperature_1",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3,
+            "max_score": 3,
+            "name": "test_lab03.py::test_average_temperature_2",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2,
+            "max_score": 2,
+            "name": "test_lab03.py::test_hot_days_1",
+            "output": "There were 2 day(s) more than 5 degrees above the average of 75.2.\n\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3,
+            "max_score": 3,
+            "name": "test_lab03.py::test_hot_days_2",
+            "output": "There were 3 day(s) more than 5 degrees above the average of 64.1.\n\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 5,
+            "max_score": 5,
+            "name": "test_lab03.py::test_is_palindrome",
+            "output": "rotator is a palindrome.\napple is not a palindrome.\n\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2,
+            "max_score": 2,
+            "name": "test_lab03.py::test_even_weighted_1_2_3_4_5_6",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 3,
+            "max_score": 3,
+            "name": "test_lab03.py::test_even_weighted_9_17_4_5_4",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

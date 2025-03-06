@@ -1,0 +1,7 @@
+<<100>>
+<<3.1>>
+<<aunt>>
+<<tricycle>>
+<<glowing>>
+
+``5 score;int;20`` ``and 3.100 years;float;20`` ago, our ``foreaunts;family;20`` brought forth upon ``this tricycle ;noun;20``a ``glowing nation.;adj;20``

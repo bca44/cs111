@@ -1,0 +1,39 @@
+{
+    "tests": [
+        {
+            "score": 5.0,
+            "max_score": 5.0,
+            "name": "test_lab01.py::test_good_input_1[stdout]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 5.0,
+            "max_score": 5.0,
+            "name": "test_lab01.py::test_good_input_2[stdout]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 5.0,
+            "max_score": 5.0,
+            "name": "test_lab01.py::test_good_input_3[stdout]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.5,
+            "max_score": 2.5,
+            "name": "test_lab01.py::test_bad_input_1[stdout]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.5,
+            "max_score": 2.5,
+            "name": "test_lab01.py::test_bad_input_2[stdout]",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}
